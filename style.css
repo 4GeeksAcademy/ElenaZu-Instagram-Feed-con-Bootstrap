@@ -2,3 +2,27 @@
     margin-left: auto;
     padding-right: 1%;
 }
+.dropdown-menu[data-bs-popper] {
+    left: -166%;
+  }
+
+  .tab-pane img{
+    width: 33%;
+  }
+
+  .width-cards{
+    width: 33%;
+  }
+  .card-body{
+    padding: 0px !important;
+  }
+
+  .card-body img{
+    width: 100%;
+    height: 430px;
+  }
+
+  .modal_icons{
+    padding: 1%;
+    margin: 1%;
+  }
